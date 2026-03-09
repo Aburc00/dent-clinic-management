@@ -2,7 +2,17 @@
 
 Diş hekimliği klinikleri için kapsamlı bir yönetim sistemi.
 
-## Projenin Kapsamı ve Temel Modüller
+## Yol Haritası ve Özellik Listesi
+
+Bu projenin tüm modül ve özellikleri, yapılacaklar ve fazlara göre planı **`docs/roadmap.md`** dosyasında detaylı şekilde listelenmiştir.
+
+- Hangi özelliklerin planlandığını,
+- Nelerin tamamlandığını,
+- Hangi işlerin eksik veya ileri fazlara ertelendiğini
+
+tek dosyada ve checkbox’lar ile takip edebilirsiniz.
+
+## Projenin Kapsamı ve Temel Modüller (Özet)
 
 - **Hasta Kayıt Sistemi:** Hastaların kişisel bilgileri, tıbbi geçmişleri, kronik rahatsızlıkları ve alerjilerinin güvenli bir şekilde tutulması.
 - **İnteraktif Odontogram (Diş Haritası):** Doktorların, yetişkin ve çocuk hastalar için görsel bir çene haritası üzerinde çürükleri, dolguları ve planlanan tedavileri işaretleyebilmesi.
