@@ -225,10 +225,26 @@
 
 ### 8. Ortak Kavramlar
 
-- **Clinic**
-  - `id: string`
-  - `name: string`
-  - `address?: string`
-  - `phone?: string`
-  - `createdAt: Date`
+ - **Clinic**
+   - `id: string`
+   - `name: string`
+   - `address?: string`
+   - `phone?: string`
+   - `createdAt: Date`
 
+## Faz 2 Domain Modelleri ve İlişkiler
+
+- TreatmentCode
+- ClinicTreatmentPrice
+- Invoice
+- InvoiceItem
+- Payment
+- PosProviderConfig
+- PaymentLink
+- DoctorPayoutRule
+- DoctorPayoutEntry
+- Product
+- InventoryLocation
+- InventoryStock
+- InventoryMovement
+- ImplantRegistry

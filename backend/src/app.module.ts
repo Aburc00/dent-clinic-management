@@ -9,6 +9,9 @@ import { NotificationsModule } from './modules/notifications/notifications.modul
 import { UsersModule } from './modules/users/users.module';
 import { FilesModule } from './modules/files/files.module';
 import { AuthModule } from './modules/auth/auth.module';
+import { EInvoiceModule } from './modules/e-invoice/e-invoice.module';
+import { PosModule } from './modules/pos/pos.module';
+import { PayoutModule } from './modules/payout/payout.module';
 
 @Module({
   imports: [
@@ -20,6 +23,9 @@ import { AuthModule } from './modules/auth/auth.module';
     UsersModule,
     FilesModule,
     AuthModule,
+    EInvoiceModule,
+    PosModule,
+    PayoutModule,
   ],
   controllers: [AppController],
   providers: [AppService],
