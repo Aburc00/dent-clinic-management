@@ -9,4 +9,3 @@ import { UtsService } from './services/uts.service';
   providers: [ProductService, InventoryService, UtsService],
 })
 export class InventoryModule {}
-

@@ -11,4 +11,3 @@ import { PaymentService } from './services/payment.service';
   exports: [PricingService, InvoiceService, PaymentService],
 })
 export class BillingModule {}
-
